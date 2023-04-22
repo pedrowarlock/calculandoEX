@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">calculandoEX</string>
+    <string name="soma">Soma</string>
+    <string name="subtra_o">Subtração</string>
+    <string name="multiplica_o">Multiplicação</string>
+    <string name="divis_o">Divisão</string>
+    <string name="expo">Expo.</string>
+    <string name="rad">Rad.</string>
+    <string name="valor_2">Valor 2</string>
+    <string name="valor_1">Valor 1</string>
+    <string name="button">Button</string>
+    <string name="resultado">Resultado</string>
+
+    <string-array name="opcoes">
+        <item>Selecione</item>
+        <item>Soma</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+        <item>Exponenciação</item>
+        <item>Radiciação</item>
+    </string-array>
+
+</resources>
